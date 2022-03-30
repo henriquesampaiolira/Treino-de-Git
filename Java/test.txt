@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 teste
 teste
 teste
+=======
+teste 2
+>>>>>>> dde3fadb4ce3df9ae0a816b8786cd7c2581d6eef
